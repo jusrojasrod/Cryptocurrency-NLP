@@ -1,0 +1,4 @@
+"""spaCy is an open-source library for NLP, mostly used in Python and Cython
+    which provides pre-trained Neural Networks, specifically, Convolutional Neural
+    Networks (CNNs) to perform NLP related taks in several languages (will
+    provide images with examples)."""
